@@ -90,7 +90,7 @@ jupyter notebook "E_HSE_PCOS_Classification.ipynb"
 ```
 📁 E-HSE-PCOS-Detection
 │
-├── 📄 E_HSE_PCOS_Classification.ipynb   # Main implementation notebook
+├── 📄 pcos_classification(3).ipynb   # Main implementation notebook
 ├── 📄 requirements.txt                   # Python dependencies
 ├── 📄 README.md                          # Project documentation
 └── 📁 dataset/                           # Input dataset (optional link or reference)
